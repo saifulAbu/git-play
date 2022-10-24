@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# saif
+*.sid
+*.dis
