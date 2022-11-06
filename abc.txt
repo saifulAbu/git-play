@@ -1,7 +1,9 @@
+first rebase
+main rebase commit
+from main rebase
+i main rebase
+hello main rebase
+adding main rebase
+on main rebase
 main commit
-from main
-i main
-hello main
-adding main
-on main
-main commit
+last rebase
