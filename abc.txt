@@ -1,6 +1,8 @@
 main1
 main2
 
+client add1
+
 first main
 main commit
 from main
