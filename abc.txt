@@ -1,6 +1,8 @@
 main1
 main2
 
+server addition1
+
 client add1
 client add2
 
