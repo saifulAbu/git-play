@@ -1,7 +1,11 @@
 main1
 main2
 
-server addition1
+comm1 
+	server addition1
+comm2
+	server add1
+	server add2
 
 client add1
 client add2
